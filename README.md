@@ -19,10 +19,11 @@
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Zapodask)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Zapodask)
 
-<br>
-<p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zapodask&theme=dark&repo=github-readme-stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/Zapodask">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zapodask&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zapodask&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Contato:
 
